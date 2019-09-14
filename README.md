@@ -1,3 +1,3 @@
 # Commodities
 
-Quantitative analysis of commodities time series with econometrics and ML algorithms.
+Statistical and ML time series analysis applie to commodities 
