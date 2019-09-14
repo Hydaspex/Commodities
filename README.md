@@ -1,3 +1,3 @@
 # Commodities
 
-Statistical and ML time series analysis applied to commodities 
+Statistical and ML time series analysis applied to the WTI contract 
